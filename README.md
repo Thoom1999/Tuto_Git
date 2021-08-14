@@ -77,3 +77,4 @@ A l'issue de la pull request, d'autres personnes vont relire le travail et en fo
 Clonez ce repo et ajoutez votre nom à la fin de ce document. Pour ce faire créez une branche (branche-de-mon-nom), faite le nécessaire, publiez la branche et faire une PR pour que vos modifications apparaissent dans la branche main.
 
 Thomas
+Martin
