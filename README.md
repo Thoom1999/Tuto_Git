@@ -72,6 +72,10 @@ Pour ce faire, il faut publier sa branche (cf partie précédente) puis utiliser
 
 A l'issue de la pull request, d'autres personnes vont relire le travail et en fonction du cas soit refuser la PR (pas dans notre cas), soit faire part d'amélioration ou soit l'accepter.
 
+## Voir l'arbre git
+
+Pour voir l'arbre git, il faut utiliser la commande `git log --all --decorate --oneline --graph`, moyen mnémotechnique : a dog
+
 ## Exercice 
 
 Clonez ce repo et ajoutez votre nom à la fin de ce document. Pour ce faire créez une branche (branche-de-mon-nom), faite le nécessaire, publiez la branche et faire une PR pour que vos modifications apparaissent dans la branche main.
