@@ -72,6 +72,12 @@ Pour ce faire, il faut publier sa branche (cf partie précédente) puis utiliser
 
 A l'issue de la pull request, d'autres personnes vont relire le travail et en fonction du cas soit refuser la PR (pas dans notre cas), soit faire part d'amélioration ou soit l'accepter.
 
+## Mettre à jour sa copie locale du repository
+
+S'il y a eu des modifications du projet faites par quelqu'un d'autres par exemple et qu'elles sont publiées sur GitHub, il n'y aura pas ces modifications sur votre copie locale.
+
+Pour récupérer les modifications, il faut faire `git pull [lien]`
+
 ## Voir l'arbre git
 
 Pour voir l'arbre git, il faut utiliser la commande `git log --all --decorate --oneline --graph`, moyen mnémotechnique : a dog
