@@ -78,9 +78,13 @@ S'il y a eu des modifications du projet faites par quelqu'un d'autres par exempl
 
 Pour récupérer les modifications, il faut faire `git pull [lien]`
 
+Pour récupérer les nouvelles branches, il faut faire `git fetch`
+
 ## Voir l'arbre git
 
 Pour voir l'arbre git, il faut utiliser la commande `git log --all --decorate --oneline --graph`, moyen mnémotechnique : a dog
+
+![](https://github.com/Thoom1999/Tuto_Git/blob/49ab318c44203961e904f7250c4ca84711bf4182/images/2021-08-25_11h42_24.png?raw=true)
 
 ## Exercice 
 
