@@ -84,6 +84,8 @@ Pour récupérer les nouvelles branches, il faut faire `git fetch`
 
 Pour voir l'arbre git, il faut utiliser la commande `git log --all --decorate --oneline --graph`, moyen mnémotechnique : a dog
 
+![](https://github.com/Thoom1999/Tuto_Git/blob/49ab318c44203961e904f7250c4ca84711bf4182/images/2021-08-25_11h42_24.png?raw=true)
+
 ## Exercice 
 
 Clonez ce repo et ajoutez votre nom à la fin de ce document. Pour ce faire créez une branche (branche-de-mon-nom), faite le nécessaire, publiez la branche et faire une PR pour que vos modifications apparaissent dans la branche main.
